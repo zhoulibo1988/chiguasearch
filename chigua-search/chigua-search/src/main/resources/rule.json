@@ -1,0 +1,68 @@
+[
+  {
+    "site": "种子搜",
+    "waiting": "0",
+    "group": "//table[@class='table table-bordered table-striped']",
+    "magnet": ".//a//@href",
+    "name": ".//tbody//a",
+    "size": ".//tbody//tr//td[2]//strong",
+    "count": ".//tbody//tr//td[1]//strong",
+    "url": "https://www.zhongzisoba.com",
+    "source": "https://www.zhongzisoba.com/list/XXX/PPP"
+  },
+  {
+    "site": "磁力吧",
+    "waiting": "0",
+    "group": "//div[@class='search-item']",
+    "magnet": ".//a//@href",
+    "name": ".//a",
+    "size": ".//span[3]//b",
+    "count": ".//span[2]//b",
+    "url": "http://www.ciliba.la",
+    "source": "http://www.ciliba.la/s/XXX_rel_PPP.html"
+  },
+  {
+    "site": "屌丝搜",
+    "waiting": "0",
+    "group": "//ul[@class='mlist']//li",
+    "magnet": ".//div[2]/a[1]//@href",
+    "name": ".//div[1]/a",
+    "size": ".//dl/dt/span[1]",
+    "count": ".//dl/dt/span[3]",
+    "url": "http://www.diaosisou.xyz",
+    "source": "http://www.diaosisou.xyz/list/XXX/PPP"
+  },
+  {
+    "site": "BT樱桃",
+    "waiting": "0",
+    "group": "//div[@class='r']",
+    "magnet": ".//a//@href",
+    "name": ".//a",
+    "size": ".//div/span[2]//span",
+    "count": "//div/span[1]//span",
+    "url": "http://www.btcerises.com",
+    "source": "http://www.btcerises.com/search?keyword=XXX&p=PPP"
+  },
+  {
+    "site": "BT兔子",
+    "waiting": "0",
+    "group": "//div[@class='search-item detail-width']",
+    "magnet": ".//div[1]//h3//a//@href",
+    "name": ".//div[1]//h3//a",
+    "size": ".//div[3]//span[3]//b",
+    "count": ".//div[3]//span[2]//b",
+    "url": "http://www.btrabbit.vip",
+    "source": "http://www.btrabbit.vip/search/XXX/default-PPP.html"
+  },
+  {
+    "site": "AOYOSO",
+    "waiting": "0",
+    "group": "//div[@class='col-md-8']//div[@class='panel panel-default']",
+    "magnet": ".//a//@href",
+    "name": ".//a",
+    "size": ".//table//tr//td[2]",
+    "count": ".//table//tr//td[1]",
+    "url": "http://www.aoyoso.com",
+    "source": "http://www.aoyoso.com/search/XXX_ctime_PPP.html"
+  }
+]
